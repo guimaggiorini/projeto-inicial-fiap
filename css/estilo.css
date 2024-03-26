@@ -17,6 +17,14 @@ h1 {
     text-align: center;
   }
 
+#cabecalho {
+    background-image: url("../img/img-01-banner-1280x640.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-size: cover;
+}
+
 /* Seletores de classe */
 
 .link {
