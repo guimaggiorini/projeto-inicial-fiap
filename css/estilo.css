@@ -87,3 +87,7 @@ h2 {
 nav {
     font-weight: bold;
 }
+
+#container {
+    padding: 20px;
+}
