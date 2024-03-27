@@ -18,7 +18,7 @@ h1 {
   }
 
 #cabecalho {
-    background-image: url("../img/img-01-banner-1280x640.png");
+/*     background-image: url("../img/img-01-banner-1280x640.png"); */
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -64,4 +64,12 @@ h1 {
 #menu ul {
     list-style-type: none;
     text-align: center;
+}
+
+/* EXERCÍCIO CHECKPOINT */
+/* EXERCÍCIO CHECKPOINT */
+/* EXERCÍCIO CHECKPOINT */
+
+header {
+    background-color: rgb(0, 0, 255);
 }
