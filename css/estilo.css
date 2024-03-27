@@ -12,10 +12,10 @@
 
 /* Seletores de tipo */
 
-h1 {
+/* h1 {
     color: red;
     text-align: center;
-  }
+  } */
 
 #cabecalho {
 /*     background-image: url("../img/img-01-banner-1280x640.png"); */
@@ -72,4 +72,14 @@ h1 {
 
 header {
     background-color: rgb(0, 0, 255);
+}
+
+h1 {
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+    color: rgb(255, 255, 255); /* cor adicionada para melhor visualização do texto, por conta do fundo azul */
+}
+
+h2 {
+    font-family: "Times New Roman", Times, serif;
 }
