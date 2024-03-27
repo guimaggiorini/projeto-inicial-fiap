@@ -95,3 +95,8 @@ nav {
 #conteudo {
     line-height: 1.5;
 }
+
+form {
+    border: 1px solid #cccccc;
+    padding: 10px;
+}
